@@ -14,5 +14,5 @@
 
 # Referenced Links
 
-* [Get-Process: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.4)
-* [Stop-Process: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.4)
+* [PowerShell: Get-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.4)
+* [PowerShell: Stop-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.4)

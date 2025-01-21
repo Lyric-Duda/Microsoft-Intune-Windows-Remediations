@@ -14,4 +14,4 @@
 
 # Referenced Links
 
-* [Microsoft Learn Information](https://learn.microsoft.com/en-us/answers/questions/421393/set-classic-ribbon-as-default-on-outlook-for-all-u)
+* [Set Classic ribbon as default on Outlook for all users](https://learn.microsoft.com/en-us/answers/questions/421393/set-classic-ribbon-as-default-on-outlook-for-all-u)

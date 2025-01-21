@@ -14,4 +14,4 @@
 
 # Referenced Links
 
-* [Letsdoautomation's Github Information](https://github.com/letsdoautomation/powershell/tree/main/Stop%20Teams%20from%20running%20on%20startup%20in%20Windows%2011)
+* [Stop Teams from running on startup in Windows 11](https://github.com/letsdoautomation/powershell/tree/main/Stop%20Teams%20from%20running%20on%20startup%20in%20Windows%2011)
