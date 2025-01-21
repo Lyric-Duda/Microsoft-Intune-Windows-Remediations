@@ -14,4 +14,4 @@
 
 # Referenced Links
 
-* [How to uninstall Copilot app in taskbar?](https://www.reddit.com/r/Intune/comments/1gahbgl/comment/ltds5j2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* [How to uninstall Copilot app in taskbar](https://www.reddit.com/r/Intune/comments/1gahbgl/comment/ltds5j2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
