@@ -4,4 +4,4 @@
 
 ## Intune Remediations Overview
 
-![Intune Remediations Overview](https://ldgithubimages.blob.core.windows.net/githubremediationsreadmeimages/Remediations/Remediations.png)
+![Intune Remediations Overview](https://pgithubstorageaccount.blob.core.windows.net/intune-github-images/Windows%20Remediations%20Images/Remediations.png)
